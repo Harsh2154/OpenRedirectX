@@ -17,4 +17,4 @@ This tool is intended for educational and testing purposes only. It is not inten
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-Harsh Sandigada
+Harsh Sandigada - @Harsh2154
