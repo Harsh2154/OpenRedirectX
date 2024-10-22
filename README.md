@@ -1,7 +1,7 @@
 # OpenRedirectX
 A simple and customizable Open Redirection vulnerability scanner written in Python. This tool helps security professionals and developers identify potential Open Redirection vulnerabilities in web applications by testing common payloads against user-defined URLs.
 
-#Installation
+##Installation
 To install the oepnredirectX automation tool, follow these steps: Download or clone the repository from GitHub
 git clone https://github.com/Harsh2154/OpenRedirectX.git
 chmod +X OpenRedirectX
