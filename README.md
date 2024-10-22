@@ -8,6 +8,8 @@ git clone https://github.com/Harsh2154/OpenRedirectX.git
 
 chmod +X OpenRedirectX
 
+python OpenRedirectX.py
+
 ## Disclaimer
 This tool is intended for educational and testing purposes only. It is not intended to be used for unethical or illegal activities. Use at your own risk.
 
