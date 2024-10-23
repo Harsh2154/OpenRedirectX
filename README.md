@@ -4,9 +4,9 @@ A simple and customizable Open Redirection vulnerability scanner written in Pyth
 ## Installation
 To install the oepnredirectX automation tool, follow these steps: Download or clone the repository from GitHub 
 
-git clone https://github.com/Harsh2154/OpenRedirectX.git
+$  git clone https://github.com/Harsh2154/OpenRedirectX.git
 
-chmod +X OpenRedirectX
+$  chmod +X OpenRedirectX
 
 python OpenRedirectX.py
 
