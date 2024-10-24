@@ -1,6 +1,19 @@
 import requests
 import time
 
+# Function to display a banner
+def show_banner():
+    banner = """
+    \033[38;5;3m
+    ======================================
+
+       Open Redirectional Vulnerability Scanner
+
+    ======================================
+    \033[0m
+    """
+    print(banner)
+
 def load_payloads(file_path):
     """Load OPEN REDIRECTION payloads from a specified file."""
     try:
@@ -29,8 +42,12 @@ def scan(url, delay, payloads):
         
         # Wait for the specified delay
         time.sleep(delay)
-
+        
+# Main execution
 if __name__ == "__main__":
+    # Display the banner
+    show_banner()
+
     target_url = input("Enter the target URL: ")
     payload_file_path = input("Enter the path to the payloads file: ")
     
