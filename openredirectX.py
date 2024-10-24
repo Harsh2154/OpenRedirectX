@@ -5,11 +5,11 @@ import time
 def show_banner():
     banner = """
     \033[38;5;3m
-    ======================================
+    =============================================
 
-       Open Redirectional Vulnerability Scanner
+      Open Redirectional Vulnerability Scanner
 
-    ======================================
+    =============================================
     \033[0m
     """
     print(banner)
